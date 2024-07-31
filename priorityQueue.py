@@ -44,3 +44,4 @@ pq.add_task(2, -50)
 pq.add_task(pq.REMOVED, -25)
 if __name__ == '_main__':
     console = []
+    print("kkk")
